@@ -1,3 +1,0 @@
-Age 26 
-Gender Male
-git 
